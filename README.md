@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://beacons.ai/CarlosEduardo">
-https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardo&theme=dark&show_icons=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardo&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+  
+ ![Snake animation](https://github.com/CarlosEduuhs/CarlosEduuhs/blob/main/.github/workflows/cobrinha.yml)
