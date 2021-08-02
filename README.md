@@ -26,3 +26,7 @@ Here are some ideas to get you started:
    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosEduuhs&theme=react-dark)  
    
 </div>
+  
+  <div aling= 'center'>
+     ![Snake animation](https://github.com/CarlosEduuhs/CarlosEduuhs/blob/output/github-contribution-grid-Snape.svg)
+  <div>
