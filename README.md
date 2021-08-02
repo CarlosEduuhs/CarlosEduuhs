@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </div>
   
   <div aling= 'center'>
-     ![Snake animation](https://github.com/CarlosEduuhs/CarlosEduuhs/blob/output/github-contribution-grid-Snape.svg)
+     ![Snake animation](https://github.com/CarlosEduuhs/CarlosEduuhs/blob/output/github-contribution-grid-Snape.yml)
   <div>
