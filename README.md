@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://beacons.ai/CarlosEduardo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardo&theme=chartreuse-dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardo&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <a href="https://beacons.ai/CarlosEduuhs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduuhs&theme=chartreuse-dark&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduuhs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
+  
+ <div align='center'>
+   
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CarlosEduuhs&theme=react-dark)  
+   
 </div>
